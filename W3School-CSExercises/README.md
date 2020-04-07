@@ -26,6 +26,18 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_user_input1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_user_input2) |
 | Answer | [A1](./CS-UserInput/csUserInputE1.cs) | [A2](./CS-UserInput/csUserInputE2.cs) |
 
+## [C# Operators](./CS-Operators): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_operators.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_operators1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_operators2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_operators3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_operators4) |
+| Answer | [A1](./CS-Operators/csOperatorsE1.cs) | [A2](./CS-Operators/csOperatorsE2.cs) | [A3](./CS-Operators/csOperatorsE3.cs) | [A4](./CS-Operators/csOperatorsE4.cs) |
+
+## [C# Math](./CS-Math): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_math.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math3) |
+| Answer | [A1](./CS-Math/csMathE1.cs) | [A2](./CS-Math/csMathE2.cs) | [A3](./CS-Math/csMathE3.cs) |
+
   
 **more to be added later**
 
