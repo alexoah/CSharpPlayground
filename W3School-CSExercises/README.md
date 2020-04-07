@@ -38,6 +38,18 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_math3) |
 | Answer | [A1](./CS-Math/csMathE1.cs) | [A2](./CS-Math/csMathE2.cs) | [A3](./CS-Math/csMathE3.cs) |
 
+## [C# Strings](./CS-Strings): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_strings.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| :--- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings5) | [Q6](https://www.w3schools.com/cs/exercise.asp?filename=exercise_strings6) |
+| Answer | [A1](./CS-Strings/csStringsE1.cs) | [A2](./CS-Strings/csStringsE2.cs) | [A3](./CS-Strings/csStringsE3.cs) | [A4](./CS-Strings/csStringsE4.cs) | [A5](./CS-Strings/csStringsE5.cs) | [A6](./CS-Strings/csStringsE6.cs) |
+
+## [C# Booleans](./CS-Booleans): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_booleans.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_booleans1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_booleans2) |
+| Answer | [A1](./CS-Booleans/csBooleansE1.cs) | [A2](./CS-Booleans/csBooleansE2.cs) |
+
   
 **more to be added later**
 
