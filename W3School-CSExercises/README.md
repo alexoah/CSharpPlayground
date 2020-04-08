@@ -80,8 +80,17 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods4) |
 | Answer | [A1](./CS-Methods/csMethodsE1.cs) | [A2](./CS-Methods/csMethodsE2.cs) | [A3](./CS-Methods/csMethodsE3.cs) | [A4](./CS-Methods/csMethodsE4.cs) |
 
-  
-**more to be added later**
+## [C# Classes_Objects](./CS-Classes_Objects): 7 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_classes.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| :--- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes5) | [Q6](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes6) | [Q7](https://www.w3schools.com/cs/exercise.asp?filename=exercise_classes7) |
+| Answer | [A1](./CS-Classes_Objects/csClasses_ObjectsE1.cs) | [A2](./CS-Classes_Objects/csClasses_ObjectsE2.cs) | [A3](./CS-Classes_Objects/csClasses_ObjectsE3.cs) | [A4](./CS-Classes_Objects/csClasses_ObjectsE4.cs) | [A5](./CS-Classes_Objects/csClasses_ObjectsE5.cs) | [A6](./CS-Classes_Objects/csClasses_ObjectsE6.cs) | [A7](./CS-Classes_Objects/csClasses_ObjectsE7.cs) |
+
+## [C# Exceptions](./CS-Exceptions): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_exceptions.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_exceptions1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_exceptions2) |
+| Answer | [A1](./CS-Exceptions/csExceptionsE1.cs) | [A2](./CS-Exceptions/csExceptionsE2.cs) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
