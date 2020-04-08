@@ -74,6 +74,12 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays5) |
 | Answer | [A1](./CS-Arrays/csArraysE1.cs) | [A2](./CS-Arrays/csArraysE2.cs) | [A3](./CS-Arrays/csArraysE3.cs) | [A4](./CS-Arrays/csArraysE4.cs) | [A5](./CS-Arrays/csArraysE5.cs) |
 
+## [C# Methods](./CS-Methods): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_methods.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_methods4) |
+| Answer | [A1](./CS-Methods/csMethodsE1.cs) | [A2](./CS-Methods/csMethodsE2.cs) | [A3](./CS-Methods/csMethodsE3.cs) | [A4](./CS-Methods/csMethodsE4.cs) |
+
   
 **more to be added later**
 
