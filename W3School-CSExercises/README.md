@@ -62,6 +62,18 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_switch1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_switch2) |
 | Answer | [A1](./CS-Switch/csSwitchE1.cs) | [A2](./CS-Switch/csSwitchE2.cs) |
 
+## [C# Loops](./CS-Loops): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_while_loop.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_while_loop1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_while_loop2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_while_loop3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_while_loop4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_while_loop5) |
+| Answer | [A1](./CS-Loops/csLoopsE1.cs) | [A2](./CS-Loops/csLoopsE2.cs) | [A3](./CS-Loops/csLoopsE3.cs) | [A4](./CS-Loops/csLoopsE4.cs) | [A5](./CS-Loops/csLoopsE5.cs) |
+
+## [C# Arrays](./CS-Arrays): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_arrays.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_arrays5) |
+| Answer | [A1](./CS-Arrays/csArraysE1.cs) | [A2](./CS-Arrays/csArraysE2.cs) | [A3](./CS-Arrays/csArraysE3.cs) | [A4](./CS-Arrays/csArraysE4.cs) | [A5](./CS-Arrays/csArraysE5.cs) |
+
   
 **more to be added later**
 
