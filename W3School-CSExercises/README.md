@@ -50,6 +50,18 @@ Total: 58 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_booleans1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_booleans2) |
 | Answer | [A1](./CS-Booleans/csBooleansE1.cs) | [A2](./CS-Booleans/csBooleansE2.cs) |
 
+## [C# If...Else](./CS-IfElse): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_conditions.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_conditions1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_conditions2) | [Q3](https://www.w3schools.com/cs/exercise.asp?filename=exercise_conditions3) | [Q4](https://www.w3schools.com/cs/exercise.asp?filename=exercise_conditions4) | [Q5](https://www.w3schools.com/cs/exercise.asp?filename=exercise_conditions5) |
+| Answer | [A1](./CS-IfElse/csIfElseE1.cs) | [A2](./CS-IfElse/csIfElseE2.cs) | [A3](./CS-IfElse/csIfElseE3.cs) | [A4](./CS-IfElse/csIfElseE4.cs) | [A5](./CS-IfElse/csIfElseE5.cs) |
+
+## [C# Switch](./CS-Switch): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/cs/cs_switch.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/cs/exercise.asp?filename=exercise_switch1) | [Q2](https://www.w3schools.com/cs/exercise.asp?filename=exercise_switch2) |
+| Answer | [A1](./CS-Switch/csSwitchE1.cs) | [A2](./CS-Switch/csSwitchE2.cs) |
+
   
 **more to be added later**
 
