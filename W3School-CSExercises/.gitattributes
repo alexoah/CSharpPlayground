@@ -1,0 +1,2 @@
+# reclassifies `.cs` files as C#:
+*.cs linguist-language=C#
